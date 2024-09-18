@@ -1,8 +1,14 @@
-# React + Vite
+# React + Clerk + Firebase + Vercel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project Setup
+Vite (Frontend)
+Node.js (Backend)
 
-Currently, two official plugins are available:
+Clerk API for Authentication
+Firebase for Data Storage
+Deployed on Vercel
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Prerequisites:
+Node.js installed
+Firebase project setup
+Clerk account and project setup
