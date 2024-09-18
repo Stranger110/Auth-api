@@ -1,4 +1,6 @@
 # React + Clerk + Firebase + Vercel
+*Mini-project
+
 
 Project Setup
 Vite (Frontend)
